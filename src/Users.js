@@ -3,10 +3,11 @@ import { Button } from "@material-ui/core";
 import { connect } from "react-redux";
 
 const styles = {
-  backgroundColor: "pink",
+  backgroundColor: "tomato",
   listStyle: "none",
-  margin: "5px",
-  color: "gray"
+  margin: "15px",
+  padding: "20px",
+  color: "white"
 };
 
 class Users extends Component {
